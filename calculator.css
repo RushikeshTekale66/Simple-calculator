@@ -1,0 +1,16 @@
+*{
+    font-family: 'poppins', sans-serif;
+    color: black;
+}
+
+
+.calculator form input{
+    border: 0;
+    outline: 0;
+    border-radius: 10px;
+    box-shadow: -8px -8px 15px rgba(152, 147, 139, 0.1), -8px -8px 15px rgba(255,255,255,0.1);
+    background: transparent;
+    color: #423b3b;
+    cursor: pointer;
+    margin: 3px;
+}
